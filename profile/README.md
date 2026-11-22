@@ -52,6 +52,46 @@ Nasconde nomi, codici fiscali, IBAN e altri dati personali prima di dare un docu
 
 <br>
 
+<h2 align="center">☁️ Self-hosted</h2>
+<p align="center">Da installare sul proprio server, con Docker.</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+<br>
+<a href="https://github.com/tastieredigitali/TiDiTalk"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/tiditalk.png" width="56" alt="TiDiTalk"></a>
+<h3><a href="https://github.com/tastieredigitali/TiDiTalk">TiDiTalk</a></h3>
+Videoconferenze per team e clienti: condivisione schermo, sala d'attesa, inviti via email.
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<br><br>
+</td>
+<td align="center" width="33%" valign="top">
+<br>
+<a href="https://github.com/tastieredigitali/SentinelTD"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/sentineltd.png" width="56" alt="SentinelTD"></a>
+<h3><a href="https://github.com/tastieredigitali/SentinelTD">SentinelTD</a></h3>
+Monitoraggio, manutenzione e sicurezza di tutti i siti WordPress e Joomla da un'unica dashboard.
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<br><br>
+</td>
+<td align="center" width="33%" valign="top">
+<br>
+<a href="https://github.com/tastieredigitali/CataSync"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/catasync.png" width="56" alt="CataSync"></a>
+<h3><a href="https://github.com/tastieredigitali/CataSync">CataSync</a></h3>
+Crea le schede prodotto WooCommerce partendo dal codice EAN e le pubblica sul sito.
+<br><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
 <h2 align="center">🎞️ Utilità gratuite per Windows</h2>
 <p align="center">Nate nel nostro laboratorio di riversaggio di VHS, cassette, CD e DVD. Gratis per tutti.</p>
 
@@ -99,46 +139,6 @@ Riversa le musicassette in MP3 e divide i brani da solo, trovando le pause.
 <a href="https://github.com/tastieredigitali/Draftlite"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/draftlite.png" width="56" alt="DraftLite"></a>
 <h3><a href="https://github.com/tastieredigitali/Draftlite">DraftLite</a></h3>
 Scrive sceneggiature in formato standard, con PDF, file Final Draft e Fountain.
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">☁️ Self-hosted</h2>
-<p align="center">Da installare sul proprio server, con Docker.</p>
-
-<table align="center">
-<tr>
-<td align="center" width="33%" valign="top">
-<br>
-<a href="https://github.com/tastieredigitali/TiDiTalk"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/tiditalk.png" width="56" alt="TiDiTalk"></a>
-<h3><a href="https://github.com/tastieredigitali/TiDiTalk">TiDiTalk</a></h3>
-Videoconferenze per team e clienti: condivisione schermo, sala d'attesa, inviti via email.
-<br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<br><br>
-</td>
-<td align="center" width="33%" valign="top">
-<br>
-<a href="https://github.com/tastieredigitali/SentinelTD"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/sentineltd.png" width="56" alt="SentinelTD"></a>
-<h3><a href="https://github.com/tastieredigitali/SentinelTD">SentinelTD</a></h3>
-Monitoraggio, manutenzione e sicurezza di tutti i siti WordPress e Joomla da un'unica dashboard.
-<br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<br><br>
-</td>
-<td align="center" width="33%" valign="top">
-<br>
-<a href="https://github.com/tastieredigitali/CataSync"><img src="https://github.com/tastieredigitali/.github/raw/main/profile/icons/catasync.png" width="56" alt="CataSync"></a>
-<h3><a href="https://github.com/tastieredigitali/CataSync">CataSync</a></h3>
-Crea le schede prodotto WooCommerce partendo dal codice EAN e le pubblica sul sito.
-<br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <br><br>
 </td>
 </tr>
